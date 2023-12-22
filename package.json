@@ -1,6 +1,6 @@
 {
   "urls": [
-    ["espnow_utils/echo.py", "https://raw.githubusercontent.com/glenn20/micropython-espnow-utils/main/src/echo.py"],
+    ["espnow_utils/echo.py", "https://github.com/gjaves/espnow_utils/raw/main/src/echo.py"],
     ["espnow_utils/espnow_scan.py", "https://raw.githubusercontent.com/glenn20/micropython-espnow-utils/main/src/espnow_scan.py"],
     ["espnow_utils/lazyespnow.py", "https://raw.githubusercontent.com/glenn20/micropython-espnow-utils/main/src/lazyespnow.py"],
     ["espnow_utils/ntp.py", "https://raw.githubusercontent.com/glenn20/micropython-espnow-utils/main/src/ntp.py"],
